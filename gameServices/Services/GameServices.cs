@@ -45,14 +45,14 @@ namespace gameServices.Services
 
             return game;
         }
-        public async Task<MyGame> getGameById(int id)
+        public async Task<MyGameById> getGameById(int id)
         {
-            var game = new MyGame();
+            var game = new MyGameById();
 
             var apiGame = await _apiServices.getGameByID(id);
             if (apiGame != null)
             {
-                game = new MyGame(apiGame);
+                game = new MyGameById(apiGame);
                 return game;
             }
 

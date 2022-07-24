@@ -50,9 +50,9 @@ namespace gameServices.Controllers
             try
             {
                 var response = await gameServices.getGameById(GameId);
-                result.resultList = new List<MyGame>();
-                result.resultList.Add(response);
-                result.resultCount = result.resultList.Count();
+                result.resultId = new List<MyGameById>();
+                result.resultId.Add(response);
+                result.resultCount = result.resultId.Count();
                 result.Status = HttpStatusCode.OK;
             }
             catch (Exception ex)

@@ -1,0 +1,11 @@
+D:\Master\gameServices\gameServices\obj\Release\net6.0\PubTmp\Out\gameServices.exe
+D:\Master\gameServices\gameServices\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Master\gameServices\gameServices\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Master\gameServices\gameServices\obj\Release\net6.0\PubTmp\Out\gameServices.dll
+D:\Master\gameServices\gameServices\obj\Release\net6.0\PubTmp\Out\gameServices.deps.json
+D:\Master\gameServices\gameServices\obj\Release\net6.0\PubTmp\Out\gameServices.runtimeconfig.json
+D:\Master\gameServices\gameServices\obj\Release\net6.0\PubTmp\Out\gameServices.pdb
+D:\Master\gameServices\gameServices\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Master\gameServices\gameServices\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Master\gameServices\gameServices\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Master\gameServices\gameServices\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
